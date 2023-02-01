@@ -26,9 +26,13 @@ His current research is focusing on multi-modal personality analysis.
 
 
 ### Awards
-- Academic Scholarship for Graduate Students in Southeast University/学业奖学金二等
+- China Post-Graduate Mathematical Contest in Modeling/研究生数学建模竞赛二等. 2022.12.15. (the second prize) 
+- Academic Scholarship for Graduate Students in Southeast University/学业奖学金二等 2022
 
+### Other
 
++ review a DASFAA2023 paper
++ C++ Course Assistant 2022.09~2023.01
 
 
 ### Contact Me
